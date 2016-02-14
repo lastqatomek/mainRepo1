@@ -1,0 +1,5 @@
+Tests from QA2 tasks.
+
+Edited QA2 task.
+
+dodana 3 linia przez tomek
